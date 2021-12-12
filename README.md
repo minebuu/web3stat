@@ -23,8 +23,10 @@
 - [ ] MESO coin economics and distribution 
 - [ ] Write-to-Earn (W2E) mechanism 
 
-## Required
-#### `npm install react-bootstrap bootstrap@5.1.3`
+## Requirements
+#### Install [Node.js](https://nodejs.org/en/) version 16 
+#### Install [npm@8.2.0](https://www.npmjs.com/) 
+#### Install [Bootstrap@5.1.3](https://getbootstrap.com/) `npm install react-bootstrap bootstrap@5.1.3`
 
 ## Getting Started 
 #### `npm start`
